@@ -1,0 +1,24 @@
+ https://54.221.66.4:8888/7b4f7f00
+
+username :  ia9czguw
+
+password :  d3357f63
+
+///hostinger
+username: classytechnosoft@gmail.com
+password: Rajan@1976
+
+
+////Email
+username: no-replay@classytechno.com
+password: Mitul@123
+
+////FTP
+username: mitul
+password: BW7Bc3KnAYRapz2d
+
+
+///apanel local
+https://192.168.2.134:8091/apanel
+username : classyadmin
+password : abc@123

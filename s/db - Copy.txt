@@ -1,0 +1,50 @@
+//////////////Mbit
+db name : u898117515_mbit
+db user : u898117515_mbit
+psw: T4IU7Ddi7=Y
+
+/////////////Rmart 
+db name : u898117515_rmart
+db user : u898117515_rmart
+psw: w5L>zb]OO/!
+
+
+/////////////tp
+db name : u898117515_tp
+db user : u898117515_tp
+psw: C6P=436Jm0S~
+
+
+//////Allinfo
+db name : u898117515_allinfo
+db user : u898117515_allinfo
+psw: ]i3Tic5L
+
+
+//////Color by paint
+db name : u898117515_colorbypaint
+db user : u898117515_colorbypaint
+psw: ;5R;Oc;33f
+
+
+
+
+//////tp_demo (gdd)
+db name : tp_demo
+db user : tp_demo
+psw: 5V7FLQi9miJtVs2
+
+
+
+
+
+//////tp_demo (gdd)
+db name : tpdemoaws_classy
+db user : tpdemoaws_classy
+psw: wHffxjYzErH2SRsz
+
+
+
+
+
+
